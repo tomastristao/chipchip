@@ -1,10 +1,3 @@
-//
-//  Readme.md
-//  ChipChip
-//
-//  Created by Tomas Tristao on 28/03/2025.
-//
-
 # chipchip
 
 ## 📱
