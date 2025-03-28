@@ -20,7 +20,7 @@
 - **ViewModels** manage state and business logic
 - **Coordinators** handle navigation and V & VM initialization
 - **Repositories** abstract networking
-- **NetworkEngine** has dependency injection
+- **NetworkEngine** as dependency injection
 - **Models** Separated between data and domain layers for flexible testing
 
 ---
